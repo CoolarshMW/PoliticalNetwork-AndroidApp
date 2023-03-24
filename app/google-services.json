@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649264515350",
+    "project_id": "politicalnetwork-5a8cf",
+    "storage_bucket": "politicalnetwork-5a8cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649264515350:android:c289966d14fdc7551a6837",
+        "android_client_info": {
+          "package_name": "com.project.politicalnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649264515350-k7d836nfnkoe8ur3mo3q57n6tckv678t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8TO2JYUMXQSQKohenExcN_ueZMfDfyYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649264515350-k7d836nfnkoe8ur3mo3q57n6tckv678t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
